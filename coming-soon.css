@@ -19,6 +19,9 @@
   cursor: pointer;
   transform: scale(1.02);
 }
+.rootClassName {
+  align-self: center;
+}
 
 .header-header {
   top: 0px;

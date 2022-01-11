@@ -17,3 +17,13 @@
   cursor: pointer;
   transform: scale(1.02);
 }
+.rootClassName {
+  flex: 1;
+  align-self: center;
+  margin-top: 25px;
+}
+.rootClassName1 {
+  flex: 1;
+  align-self: center;
+  margin-top: 25px;
+}

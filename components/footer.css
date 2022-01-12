@@ -61,6 +61,12 @@
   align-items: space-between;
   flex-direction: column;
 }
+.footer-link {
+  display: contents;
+}
+.footer-component {
+  text-decoration: none;
+}
 .footer-image {
   top: 0px;
   left: auto;
